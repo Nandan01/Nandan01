@@ -4,9 +4,9 @@
  
  - 🌻 Throughout my coursework I have developed a passion to create technology that elevates others and adds value, perspective, or purpose to their lives. 
 
- - 🦋 I am currently in the process of doing some fullstack projects. Feel free to reach out for project collaboration!
+ - 💻 I primarly work as a front-end developer when doing projects however, I have recently dived into backend development. I'm currently in the process doing some fullstack projects. Feel free to reach out to me for project collaboration or provide resources! 
 
- - 🤗 Apart from CS, a few things about me - I love solving puzzles, creating “trippy” art pieces, trying new ethnic food, and dancing. 
+ - 🤗 Apart from CS, a few things about me - I love solving puzzles, creating “trippy” art pieces, and trying new ethnic food. 
 
 <!---
 Nandan01/Nandan01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
