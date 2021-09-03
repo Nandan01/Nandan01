@@ -1,4 +1,5 @@
-- 👋 Hi there, I’m @Nandan
+Hi there 👋, 
+I’m Nandan(she/her)
 - 👀 I’m interested in  
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
