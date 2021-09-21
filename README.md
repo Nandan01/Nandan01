@@ -4,7 +4,7 @@
  
  - 🌻 Throughout my coursework I have developed a passion to create technology that elevates others and adds value, perspective, or purpose to their lives. 
 
- - 💻 I primarly work as a front-end developer however, I have recently dived into backend development. I'm currently in the process of doing some fullstack projects. Feel free to reach out for project collaboration or to provide any helpful resources. Always open to learning! 
+ - 💻 I primarly work as a front-end developer however, I have recently dived into backend development as well. Feel free to reach out for project collaboration or to provide any helpful resources. Always open to learn! 
 
  - 🤗 Apart from CS, a few things about me - I love solving puzzles, creating “trippy” art pieces, and trying new ethnic food. 
 
